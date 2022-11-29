@@ -1,0 +1,158 @@
+body {
+  font-family: "visuelt-light-pro";
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.26);
+  text-align: left;
+}
+
+strong {
+  font-family: 'visuelt-bold-pro';
+  font-size: 31px;
+  line-height: 1;
+}
+
+.header__submenu a.header__menu-item {
+ color: #000; 
+}
+
+.dnone-fruits .lemon-graphic,
+.dnone-fruits .garlic-graphic,
+.featuredprod .vol12-graphic,
+.dnone .mango-graphic,
+.chelseacucumber .garlic-graphic,
+.chelseacucumber .lemon-graphic{
+  display:none;
+}
+
+.meet-volley-container .mango-graphic {
+    width: 250px;
+    position: absolute;
+    top: 50px;
+    left: -120px;
+}
+
+.meet-volley-container .lemon-graphic {
+    width: 250px;
+    position: absolute;
+    bottom: 33em;
+    right: -90px;
+    z-index: -1;
+}
+
+.meet-volley-container .garlic-graphic {
+    width: 250px;
+    position: absolute;
+    top: 20em;
+    left: -70px;
+}
+
+.product___featured .vol12-graphic{
+    width: 250px;
+    position: absolute;
+top: -8.5em;
+    right: 8em;
+   z-index: -1;
+ 
+}
+
+.close-icon {
+    width: 100%;
+    position: relative;
+    text-align: right;
+    z-index: 2;
+}
+
+
+.whatsinside-icon{
+width: 100%;
+position: relative;
+    text-align: right;
+  z-index:2;
+
+}
+
+
+.ooo-instagram-header__subheading strong{
+    --max-font: 20;
+  --min-font: 15;
+
+  font-size: var(--responsive);
+}
+
+.img-fluid {
+    max-width: 100%;
+}
+
+.red .product-form__input input[type=radio]+label, 
+.red .product-form__input input[type=radio]+label:hover {
+  border: 3px solid #fd495c;
+}
+
+.green .product-form__input input[type=radio]+label, 
+.green .product-form__input input[type=radio]+label:hover {
+  border: 3px solid #6EAD5C;
+}
+
+.orange .product-form__input input[type=radio]+label, 
+.orange .product-form__input input[type=radio]+label:hover {
+  border: 3px solid #ff9800;
+}
+
+.goldtorch .product-form__input input[type=radio]+label, 
+.goldtorch .product-form__input input[type=radio]+label:hover {
+  border: 3px solid #bd9a5f;
+}
+
+.black .product-form__input input[type=radio]+label, 
+.black .product-form__input input[type=radio]+label:hover {
+  border: 3px solid #000;
+}
+
+
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.border-tb {
+    border-bottom: 2px solid #000;
+    border-top: 2px solid #000;
+}
+
+.section-header h2 {
+    color: #000;
+    font-family: jack_sansregular;
+    margin: 0;
+    --max-font: 60;
+    --min-font: 50;
+    font-size: var(--responsive);
+}
+
+.sub-header h3 {
+  font-family: 'visuelt-bold-pro';
+  color: #fff;
+  margin: 0;
+  --max-font: 20;
+    --min-font: 15;
+    font-size: var(--responsive);
+
+
+}
+
+.flickity-prev-next-button .flickity-button-icon{
+  fill:#cccccc !important;
+  width: 100% !important;
+    height: 100% !important;
+}
+
+
+.copyright__content{
+  font-family: 'visuelt-light-pro';
+  font-weight:100;
+}
+
+.newsletter__subheading p{
+  font-family: visuelt-bold-pro;
+}
+
