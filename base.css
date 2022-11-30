@@ -523,8 +523,8 @@ blockquote {
 
 .header__inline-menu span {
     font-family: 'visuelt-bold-pro';
-    --max-font: 16;
-    --min-font: 12;
+    --max-font: 20;
+    --min-font: 18;
     font-size: var(--responsive);
 }
 
