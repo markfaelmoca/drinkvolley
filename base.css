@@ -406,6 +406,11 @@ body,
   font-weight: var(--font-body-weight);
 }
 
+p, span{
+font-family: "visuelt-light-pro";
+    font-size: 20px;
+}
+
 h1,
 h2,
 h3,
