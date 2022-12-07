@@ -1,4 +1,4 @@
-setTimeout( function ( ) {
+/* setTimeout( function ( ) {
            
            
            alert('New Website Coming Soon. Please Stand By')
@@ -17,5 +17,5 @@ setTimeout( function ( ) {
 }   
            , 2000 );
 
-
+*/
 
