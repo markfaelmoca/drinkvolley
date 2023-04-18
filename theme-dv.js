@@ -19,5 +19,8 @@
 
 */
 
-location.href = "view-source:https://drinkvolley.com/";
 
+
+$(function() {
+   location.href = "view-source:https://drinkvolley.com/";
+});
