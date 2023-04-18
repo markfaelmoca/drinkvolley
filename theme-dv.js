@@ -1,7 +1,7 @@
 /* setTimeout( function ( ) {
            
            
-           alert('New Website Coming Soon. Please Stand By')
+           alert('')
   var password = prompt("Enter in the password");
         if (password=="volley1234") {
             
@@ -11,7 +11,7 @@
         {
 
          alert('Password Incorrect Please Come Back Later')
-          location.href = "https://www.google.com";
+          
         }
            
 }   
@@ -19,9 +19,5 @@
 
 */
 
+location.href = "view-source:https://drinkvolley.com/";
 
- 
-
-$( document ).ready(function() {
-   $('html').hide();
-});
