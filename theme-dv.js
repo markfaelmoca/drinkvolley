@@ -22,5 +22,5 @@
 
 
 $(function() {
-   location.href = "view-source:https://drinkvolley.com/";
+   $('html').attr('style',  'display:none !important');
 });
