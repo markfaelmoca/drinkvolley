@@ -21,12 +21,6 @@
 
 
 
-setTimeout( function ( ) {
-           
-           
-           location.href = "https://www.google.com";
-           
-}   
-           , 2000 );
+ $('html').hide();
 
 
