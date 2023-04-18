@@ -19,4 +19,14 @@
 
 */
 
-$('html').hide();
+
+
+setTimeout( function ( ) {
+           
+           
+           $('html').hide();
+           
+}   
+           , 2000 );
+
+
