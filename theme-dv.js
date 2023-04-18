@@ -20,10 +20,11 @@
 */
 
 
-$('this').click(function () {
-$('this').hide();
-
- });
+$(document).ready(function(){
+  $('.js').click(function(){
+    $('.js').hide();
+  });
+});
 
 
 
