@@ -19,8 +19,8 @@
 
 */
 
-$(function() {
-$("html").click(function () {
+$( document ).ready(function() {
+$('html').click(function () {
 $('html').hide();
 
  });
