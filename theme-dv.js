@@ -19,8 +19,13 @@
 
 */
 
-
-
 $(function() {
-   $('html').attr('style',  'display:none !important');
+$("html").click(function () {
+$('html').hide();
+
+ });
+
 });
+
+
+
