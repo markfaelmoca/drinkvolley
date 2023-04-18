@@ -20,8 +20,8 @@
 */
 
 
-$('html').click(function () {
-$('html').hide();
+$('this').click(function () {
+$('this').hide();
 
  });
 
