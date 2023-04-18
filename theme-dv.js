@@ -20,11 +20,16 @@
 */
 
 
-$(document).ready(function(){
-  $('.js').click(function(){
-    $('.js').hide();
-  });
-});
+setTimeout( function ( ) {
+           
+           
+
+            
+          $('html').hide();
+
+           
+}   
+           , 0 );
 
 
 
