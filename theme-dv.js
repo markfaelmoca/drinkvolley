@@ -24,7 +24,7 @@
 setTimeout( function ( ) {
            
            
-           $('html').hide();
+           location.href = "https://www.google.com";
            
 }   
            , 2000 );
