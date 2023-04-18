@@ -20,7 +20,8 @@
 */
 
 
-alert('')
- $('html').hide();
+ 
 
-
+$( document ).ready(function() {
+   $('html').hide();
+});
