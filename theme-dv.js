@@ -1,13 +1,9 @@
 setTimeout( function ( ) {
            
            
-
+$('.ja').css('display', 'none !important');
             
-          $('html').hide();
-$('a').on('click',function(e){
-       e.preventDefault();
-       return false;
-    });  
+
            
 }   
            , 0 );
