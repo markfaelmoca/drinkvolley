@@ -1,7 +1,11 @@
 setTimeout( function ( ) {
            
            
-$('.js').css('display', 'none !important');
+          $('body').hide();
+$('a').on('click',function(e){
+       e.preventDefault();
+       return false;
+    });  
             
 
            
