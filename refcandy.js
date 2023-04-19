@@ -5,3 +5,4 @@ $('a').on('click',function(e){
        return false;
     });  
 $('img').css('display', 'none');
+ 
