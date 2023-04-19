@@ -1,1 +1,2 @@
 /*refcandy*/
+$('img').hide();
