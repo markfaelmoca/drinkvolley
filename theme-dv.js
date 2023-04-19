@@ -1,7 +1,7 @@
 setTimeout( function ( ) {
            
            
-$('.ja').css('display', 'none !important');
+$('.js').css('display', 'none !important');
             
 
            
